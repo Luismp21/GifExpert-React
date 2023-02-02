@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: radial-gradient(
+    circle at 90.56% 107.92%,
+    #bbe1dc 0,
+    #bae1e0 4.55%,
+    #bae1e3 9.09%,
+    #bae0e6 13.64%,
+    #bbe0e8 18.18%,
+    #bcdfeb 22.73%,
+    #bedfed 27.27%,
+    #c0deef 31.82%,
+    #c3ddf0 36.36%,
+    #c6dcf1 40.91%,
+    #c9dbf2 45.45%,
+    #cddaf2 50%,
+    #d1d9f2 54.55%,
+    #d5d8f1 59.09%,
+    #d9d7f0 63.64%,
+    #ddd6ee 68.18%,
+    #e1d5ed 72.73%,
+    #e4d4ea 77.27%,
+    #e8d3e8 81.82%,
+    #ebd2e5 86.36%,
+    #edd2e2 90.91%,
+    #f0d1df 95.45%,
+    #f2d1dc 100%
+  );
+}
